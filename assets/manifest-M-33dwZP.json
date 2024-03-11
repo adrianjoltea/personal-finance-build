@@ -1,0 +1,19 @@
+{
+  "name": "Ciava",
+  "short_name": "Ciava",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A readable Hacker News app.",
+  "icons": [
+    {
+      "src": "/logoCat.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "orientation": "portrait",
+  "theme_color": "#000000",
+  "scope": "/",
+  "prefer_related_applications": "true"
+}
