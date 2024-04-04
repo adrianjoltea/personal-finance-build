@@ -1,0 +1,1 @@
+import{u as i,f as r,p as u,j as s,t as p}from"./index-gUZyhKWC.js";function m({children:a,modalId:o,handleCloseModal:t}){const e=i(),n=r(l=>u(l,o));function c(){e(p({modalId:o,open:!1}))}return n?s.jsx("div",{className:"overlay",children:s.jsxs("div",{className:"modal",children:[s.jsx("button",{className:"modal-button",onClick:t||c,children:"X"}),a]})}):null}export{m as M};
