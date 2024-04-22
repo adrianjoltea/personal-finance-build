@@ -1,0 +1,1 @@
+import{r}from"./index-pnElvbLb.js";function o(e){const[s,t]=r.useState(window.innerWidth>=e);return r.useEffect(()=>{const n=()=>{t(window.innerWidth>=e)};return window.addEventListener("resize",n),()=>{window.removeEventListener("resize",n)}},[e]),s}export{o as u};
